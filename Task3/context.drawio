@@ -1,0 +1,63 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Страница — 1" id="uaKUjMeMCsB_qxLAnp1L">
+    <mxGraphModel dx="5000" dy="2770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2FhP36m2_ESLu1qzftXg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2FhP36m2_ESLu1qzftXg-20" target="2FhP36m2_ESLu1qzftXg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-20" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;PropDevelopment&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1441" y="171" width="492" height="126" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Житель" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="2FhP36m2_ESLu1qzftXg-23">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="-1027" y="-164" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;Внешние сервисы &quot;Умный дом&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1441" y="419" width="492" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.039;exitY=0.912;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2FhP36m2_ESLu1qzftXg-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1469" y="231" as="sourcePoint" />
+            <mxPoint x="-1204" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1141" y="28" />
+              <mxPoint x="-1192" y="83" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Регистрация&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;биометрии&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1264" y="27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FhP36m2_ESLu1qzftXg-30" target="2FhP36m2_ESLu1qzftXg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Домофон и&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Шлагбаум&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="173" width="252" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.91;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FhP36m2_ESLu1qzftXg-23" target="2FhP36m2_ESLu1qzftXg-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-694" y="98" as="sourcePoint" />
+            <mxPoint x="-773" y="232" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-788" y="11" />
+              <mxPoint x="-716" y="39" />
+              <mxPoint x="-661" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Запрос доступа&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-663" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;аутентификация&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;и авторизация по биометрии&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-891" y="184" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2FhP36m2_ESLu1qzftXg-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;управлениее устройствами&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1152" y="332" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
